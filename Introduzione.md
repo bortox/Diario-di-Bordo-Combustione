@@ -9,6 +9,19 @@
 
 ---
 
+<details>
+  <summary>Materiali Utilizzati</summary>
+  
+  * Accendino
+  * Carta
+  * Alcool puro 96%
+  * Legnetti
+  * Sasso
+  * Candela
+  * 2 Becher di diversa dimensione
+</details>
+
+
 ## Che cosa abbiamo osservato?<a name="cao"></a>
 
 ### 1) Combustione di diversi materiali
@@ -45,7 +58,7 @@
 
 - Osservando ciò che è accaduto negli esperimenti di interruzione della combustione, abbiamo notato che uno degli elementi necessari a mettere in atto la combustione è il _comburente_, che potrebbe essere l' aria o una sostanza contenuta in essa. 
 
-- Una volta esaurito il comburente o il combustibile la combustione finisce.
+- Una volta esaurito il _comburente_ o il _combustibile_ la combustione finisce.
 
 - Dopo una discussione collettiva abbiamo deciso che l' appannamento del becher è nebbia formatasi con l' evaporazione di particelle d' acqua contenute nella candela. Quando il vapore ha incontrato le pareti del becher si è condensato.
 
