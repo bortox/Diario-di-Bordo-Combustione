@@ -73,6 +73,7 @@ INNESCO|CIÒ CHE SERVE A FAR PARTIRE LA COMBUSTIONE
 
 * [Torna all' indice di questo documento](#int)
 * [Torna all' indice del Diario di Bordo sulla combustione](/README.md)
+![Triangolo della Combustione](https://commons.wikimedia.org/wiki/File:Triangolo_del_fuoco.svg)
 
 
 ---
