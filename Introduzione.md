@@ -21,7 +21,7 @@
 - Dopo che la carta ha finito di bruciare, rimangono dei piccoli pezzettini di carta, ormai nera, e della polvere nera.
 
 > #### ✅ Combustione dell' alcool puro al 96%
-- La fiamma è molto grossa, continua a bruciare per tempo e sotto di essa non si vedono residui. Del fumo si alza. Appena smette di bruciare si nota con chiarezza che la capsula è perfettamente pulita.
+- La fiamma è molto grossa (20-30 cm),  continua a bruciare per poco tempo e sotto di essa non si vedono residui. Del fumo si alza. Appena smette di bruciare si nota con chiarezza che la capsula è perfettamente pulita.
 
 > #### ✅ Combustione del legno
 - Il fuoco con piccoli legnetti si accede difficilmente e si spenge rapidamente, la parte bruciata diventa nera.
