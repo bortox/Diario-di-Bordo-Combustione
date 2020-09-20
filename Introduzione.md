@@ -49,6 +49,7 @@
 
 - Dopo una discussione collettiva abbiamo deciso che l' appannamento del becher è nebbia formatasi con l' evaporazione di particelle d' acqua contenute nella candela. Quando il vapore ha incontrato le pareti del becher si è condensato.
 
+- Ci siamo inoltre chiesti se la combustione sia una trasformazione chimica. Ancora non lo sappiamo, ma è ragionevole pensarlo siccome nella combustione dell' alcool non è rimasto niente e la natura della sostanza è cambiata.
 ___
 
 ## Definizioni operative<a name="dfo"></a>
