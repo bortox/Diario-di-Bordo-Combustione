@@ -36,7 +36,7 @@
 
 ---
 
- ## **Riflessioni**:<a name="rfl"></a>
+## Riflessioni:<a name="rfl"></a>
 
 
  - Analizzando meglio gli esperimenti siamo arrivati a dedurre che la combustione necessita di un _innesco_, ossia qualcosa che dà il via alla combustione.  
