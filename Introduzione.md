@@ -4,12 +4,13 @@
 
 ## INDICE INTERATTIVO:
 ---
-* #### [Combustione di diversi materiali](#cao)
-* #### [Fine della combustione](#fdc)
+* #### [Che cosa abbiamo osservato?](#cao)
 * #### [Riflessioni](#rfl)
 * #### [Definizioni operative](#dfo)
 * #### [Termini nuovi](#tmn)
+
 ---
+
 ## Che cosa abbiamo osservato?<a name="cao"></a>
 
 ### 1) Combustione di diversi materiali
@@ -71,6 +72,8 @@ INNESCO|CIÒ CHE SERVE A FAR PARTIRE LA COMBUSTIONE
 
 * [Torna all' indice di questo documento](#int)
 * [Torna all' indice del Diario di Bordo sulla combustione](/README.md)
+
+
 ---
 
 <sub><sup>Andrea Bortolotti</sub></sup>
