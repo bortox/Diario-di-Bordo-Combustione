@@ -1,10 +1,3 @@
----
-tags: [Import-4eea]
-title: La Combustione - Introduzione
-created: '2020-09-19T22:12:47.180Z'
-modified: '2020-09-20T18:05:41.835Z'
----
-
 # La Combustione - Introduzione<br><a name="int"></a>
 ## Diario di Bordo - Scienze Naturali
 <sup><sub>NOTA: IN QUESTA LEZIONE ERO ASSENTE, MA SONO RIUSCITO A FARMI MANDARE GLI APPUNTI E RIELABORARE UN DIARIO DI BORDO DAGLI APPUNTI.</sub></sup><br><br>
