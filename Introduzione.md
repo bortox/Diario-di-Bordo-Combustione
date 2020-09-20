@@ -10,15 +10,15 @@
 ---
 
 <details>
-  <summary>Materiali Utilizzati</summary>
+  <summary><b>Materiali Utilizzati</b> (clicca per espandere)</summary>
   
-  * Accendino
-  * Carta
-  * Alcool puro 96%
-  * Legnetti
-  * Sasso
-  * Candela
-  * 2 Becher di diversa dimensione
+  • Accendino<br>
+  • Carta<br>
+  • Alcool puro 96%<br>
+  • Legnetti<br>
+  • Sasso<br>
+  • Candela<br>
+  • 2 Becher di diversa dimensione<br>
 </details>
 
 
