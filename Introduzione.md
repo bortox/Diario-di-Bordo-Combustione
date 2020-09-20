@@ -44,7 +44,7 @@
 
 
 ### 2) Termine della combustione
-  - La professoressa accende una candela, mette un becher sopra di essa per coprirla. Il bicchiere si appanna e la candela si spenge dopo poco.
+  - La professoressa accende una candela, mette un becher sopra di essa per coprirla. Il becher si appanna e la candela si spenge dopo poco.
   - Coprendo la candela con un becher più grande del precedente, esso si appanna di più e più lentamente, la candela si spenge dopo un tempo maggiore rispetto a quella nel becher più piccolo.
 
 ---
@@ -52,11 +52,11 @@
 ## Riflessioni:<a name="rfl"></a>
 
 
- - Analizzando meglio gli esperimenti siamo arrivati a dedurre che la combustione necessita di un _innesco_, ossia qualcosa che dà il via alla combustione.  
+- Analizzando meglio gli esperimenti siamo arrivati a dedurre che la combustione necessita di un _innesco_, ossia qualcosa che dà il via alla combustione.  
 
 - Abbiamo inoltre definito il termine _combustibile_, ossia una sostanza in grado di avere una combustione, come carta, legnetti e alcool.
 
-- Osservando ciò che è accaduto negli esperimenti di interruzione della combustione, abbiamo notato che uno degli elementi necessari a mettere in atto la combustione è il _comburente_, che potrebbe essere l' aria o una sostanza contenuta in essa. 
+- Osservando ciò che è accaduto negli esperimenti in cui la combustione è terminata, abbiamo notato che uno degli elementi necessari a mettere in atto la combustione è il _comburente_, che potrebbe essere l' aria o una sostanza contenuta in essa. 
 
 - Una volta esaurito il _comburente_ o il _combustibile_ la combustione finisce.
 
@@ -65,7 +65,7 @@
 - Ci siamo inoltre chiesti se la combustione sia una trasformazione chimica. Ancora non lo sappiamo, ma è ragionevole pensarlo siccome nella combustione dell' alcool non è rimasto niente e la natura della sostanza è cambiata.
 ___
 
-## Definizioni operative<a name="dfo"></a>
+## Definizioni operative di _combustione_<a name="dfo"></a>
 #### Definizione personale
 > _La combustione è una trasformazione che ha bisogno di un innesco, un combustibile e un comburente, genera luce e calore, lascia talvolta residui._
 #### Definzione condivisa
