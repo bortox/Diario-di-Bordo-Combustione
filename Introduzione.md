@@ -16,7 +16,7 @@
 ---
 
 > #### ✅ Combustione della carta
-- La professoressa ha messo della carta in una capsula, poi le ha dato fuoco.
+- La professoressa ha messo della carta in una capsula, poi le ha dato fuoco con un accendino.
 - Si vedono fiamme e fumo.
 - Dopo che la carta ha finito di bruciare, rimangono dei piccoli pezzettini di carta, ormai nera, e della polvere nera.
 
