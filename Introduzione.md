@@ -1,5 +1,3 @@
-# La Combustione - Introduzione<br><a name="int"></a>
-## Diario di Bordo - Scienze Naturali
 <sup><sub>NOTA: IN QUESTA LEZIONE ERO ASSENTE, MA SONO RIUSCITO A FARMI MANDARE GLI APPUNTI E RIELABORARE UN DIARIO DI BORDO DAGLI APPUNTI.</sub></sup><br><br>
 
 ## INDICE INTERATTIVO:
