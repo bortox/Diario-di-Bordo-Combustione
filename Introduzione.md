@@ -66,9 +66,13 @@
 ___
 
 ## Definizioni operative di _combustione_<a name="dfo"></a>
+
 #### Definizione personale
+
 > _La combustione è una trasformazione che ha bisogno di un innesco, un combustibile e un comburente, genera luce e calore, lascia talvolta residui._
+
 #### Definzione condivisa
+
 > _La combustione è una trasformazione che grazie ad un innesco genera una fiamma che produce luce, calore e fumo, consumando un materiale, talvolta lasciando residuo, in presenza di aria._
 
 ---
