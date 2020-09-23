@@ -18,7 +18,7 @@
 L' inizio di questa pratica è datato a metà del IV° millennio a.C. Probabilmente nelle fornaci, in una cottura del vasellame di giorni e giorni, con temperature di 600-800°C, nel tentativo di aggiungere materiali colorati derivati da minerali, con la presenza di sostanze organiche come la paglia, sono stati prodotti i primi metalli, come il rame. Sì iniziò a forgiare il ferro invece dopo il rame, poiché dovevano essere costruiti degli altoforni a tiraggio forzato, che dovevano raggiungere i 2000°C Ecco qui sotto una tabella di alcune possibili riduzioni di minerali.
 <br><sup>FONTE: [archeoagordo.it](http://archeoagordo.it/02/Archeometallurgia.htm)</sup>
 
-|Minerale| Fonte riducente = |Metallo ( + residuo ) |
+|Minerale| Fonte riducente |Metallo ( + residuo ) |
 |---|---|---|
 MINIO|CARBONE|PIOMBO
 MALACHITE|CARBONE|RAME
@@ -94,7 +94,7 @@ ___
 <a name="pt"></a>
 
 Le prime ipotesi e teorie riguardanti il mondo circostante erano basate sull' 
-<font size=4>**apparenza**</font> del mondo intorno a noi, <font size=4>**senza**</font> utilizzare il <font size=4>**metodo scientifico**</font>
+ **apparenza** del mondo intorno a noi, **senza** utilizzare il **metodo scientifico**
 nell' elaborazione di esse. Una teoria famosa, stimata e presa in considerazione per secoli è la
 
 ## Teoria dei quattro elementi di Aristotele
@@ -122,7 +122,7 @@ nell' elaborazione di esse. Una teoria famosa, stimata e presa in considerazione
 <a name="ms"></a>
 
 
-Nel XVI e XVII secolo d.C. iniziarono a vacillare molte teorie, sotto l' occhio critico di scienziati che utilizzavano il <font size=4>**metodo scientifico**</font> per dedurre gli eventi del mondo intorno a noi, mossi anche dal nuovo libro di Boyle <font size=4>**Il chimico scettico**</font> che segnò uno <font size=4>**spartiacque**</font> tra la chimica fatta per gioco o credendo nelle stregonerie e tra quella fatta per l' amore della conoscenza.
+Nel XVI e XVII secolo d.C. iniziarono a vacillare molte teorie, sotto l' occhio critico di scienziati che utilizzavano il **metodo scientifico** per dedurre gli eventi del mondo intorno a noi, mossi anche dal nuovo libro di Boyle **Il chimico scettico** che segnò uno **spartiacque** tra la chimica fatta per gioco o credendo nelle stregonerie e tra quella fatta per l' amore della conoscenza.
 
 ---
 
