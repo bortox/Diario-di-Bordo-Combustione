@@ -57,12 +57,15 @@ ALLUMINA|MAGNESIO|ALLUMINIO
 ### Duttilità
 
   > Proprietà di essere ridotti in fili.
+
 ### Malleabilità
+
   > Proprietà di essere ridotti in lamine sottili
   
 ### Durezza
 
   > Resistenza che una sostanza oppone alla scalfittura.
+
 ### Conducibilità termica
 
   > Facilità con la quale una sostanza trasporta calore.
@@ -73,9 +76,11 @@ ALLUMINA|MAGNESIO|ALLUMINIO
 # L' Evoluzione della Chimica<a name="tmn"></a>
 ___
 <a name="pt"></a>
+
 Le prime ipotesi e teorie riguardanti il mondo circostante erano basate sull' 
 <font size=4>**apparenza**</font> del mondo intorno a noi, <font size=4>**senza**</font> utilizzare il <font size=4>**metodo scientifico**</font>
- nell' elaborazione di esse. Una teoria famosa, stimata e presa in considerazione per secoli è la
+nell' elaborazione di esse. Una teoria famosa, stimata e presa in considerazione per secoli è la
+
 ## Teoria dei quattro elementi di Aristotele
   > _Tutte le sostanze sono sostituite da proporzioni differenti di sostanze semplici ( elementi) : terra, aria, fuoco e acqua. Le trasformazioni chimiche - come la fusione dello zucchero - non sono altro che un cambio delle proprorzioni tra i quattro elementi nella sostanza._
 > Un' altra teoria ritenuta vera era quella della 
@@ -99,6 +104,8 @@ Le prime ipotesi e teorie riguardanti il mondo circostante erano basate sull'
 ---
 
 <a name="ms"></a>
+
+
 Nel XVI e XVII secolo d.C. iniziarono a vacillare molte teorie, sotto l' occhio critico di scienziati che utilizzavano il <font size=4>**metodo scientifico**</font> per dedurre gli eventi del mondo intorno a noi, mossi anche dal nuovo libro di Boyle <font size=4>**Il chimico scettico**</font> che segnò uno <font size=4>**spartiacque**</font> tra la chimica fatta per gioco o credendo nelle stregonerie e tra quella fatta per l' amore della conoscenza.
 
 ---
