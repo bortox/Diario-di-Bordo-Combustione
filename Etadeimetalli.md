@@ -52,23 +52,39 @@ ALLUMINA|MAGNESIO|ALLUMINIO
 
 ---
 
+
+
 ## Proprietà dei metalli<a name="dfo"></a>
+
+
 
 ### Duttilità
 
+
+
   > Proprietà di essere ridotti in fili.
+
+
 
 ### Malleabilità
 
+
+
   > Proprietà di essere ridotti in lamine sottili
   
+
+
 ### Durezza
+
 
   > Resistenza che una sostanza oppone alla scalfittura.
 
+
 ### Conducibilità termica
 
+
   > Facilità con la quale una sostanza trasporta calore.
+
 
 
 ---
