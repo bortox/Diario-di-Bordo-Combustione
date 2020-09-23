@@ -1,9 +1,3 @@
----
-title: Untitled
-created: '2020-09-20T17:16:43.292Z'
-modified: '2020-09-23T18:37:37.793Z'
----
-
 <a name="int"></a>
 # L' Età dei Metalli e una breve storia della Chimica
 ---
