@@ -146,7 +146,7 @@ Colore|Temperatura di ebollizione/fusione
 Sapore|Solubilità
 
 ## Il Chimico Scettico
-> Fu un libro scritto sotto forma di dialogo da **Robert Boyle**, pubblicato a Londra. Questo libro presentava l' ipotesi di Boyle, in cui la materia forsse formata da atomi e che ogni fenomeno fosse il risultato di collisioni tra atomi. Il libro affermava che gli **esperimenti negavano** il fatto che gli **elementi** chimici fossero **soltanto quattro** e invitava tutti i chimici a provare loro stessi. Inoltre in questo libro fu affermata con forza la necessità di **separare** la **chimica dalla medicina e dall' alchimia**, elevandola al rango di una scienza.
+> Fu un libro scritto sotto forma di dialogo da **Robert Boyle**, pubblicato a Londra. Questo libro presentava l' ipotesi di Boyle, in cui la materia sarebbe stata formata da atomi e che ogni fenomeno fosse il risultato di collisioni tra atomi. Il libro affermava che gli **esperimenti negavano** il fatto che gli **elementi** chimici fossero **soltanto quattro** e invitava tutti i chimici a provare loro stessi. Inoltre in questo libro fu affermata con forza la necessità di **separare** la **chimica dalla medicina e dall' alchimia**, elevandola al rango di una scienza.
 
 <br>
 
