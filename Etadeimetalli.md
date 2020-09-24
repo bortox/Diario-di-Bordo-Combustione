@@ -16,7 +16,7 @@
 
 > È il processo per cui dai vari minerali, per reazione chimica, si ottiene la separazione del metallo sotto forma di elemento più o meno mescolato con altri composti ed elementi presenti in quantitativi molto bassi. L' etimologia è forse connessa all' evidente aumento di densità - talvolta anche del 100% - nel passaggio dal minerale al metallo.
 L' inizio di questa pratica è datato a metà del IV° millennio a.C. Probabilmente nelle fornaci, in una cottura del vasellame di giorni e giorni, con temperature di 600-800°C, nel tentativo di aggiungere materiali colorati derivati da minerali, con la presenza di sostanze organiche come la paglia, sono stati prodotti i primi metalli, come il rame. Invece, dopo il rame, si iniziò a forgiare il ferro - più resistente - poiché dovevano essere costruiti degli altoforni a tiraggio forzato, che dovevano raggiungere i 2000°C. Ecco qui sotto una tabella di alcune possibili riduzioni di minerali.
-<br><sup>FONTE: [archeoagordo.it](http://archeoagordo.it/02/Archeometallurgia.htm)</sup>
+<br><br><sup>FONTE: [archeoagordo.it](http://archeoagordo.it/02/Archeometallurgia.htm)</sup>
 
 |Minerale| Fonte riducente |Metallo ( + residuo ) |
 |---|---|---|
