@@ -39,16 +39,16 @@ ALLUMINA|MAGNESIO|ALLUMINIO
   🔸 Treppiedi<br>
   🔸 Carbone<br>
   🔸 Minio in polvere<br>
-  🔸 Guanti e DPI necessari.<br>
+  🔸 Guanti e DPI necessari<br>
 </details><br>
 
 **Procedimento** :
 
-* Inserisco il carbone nel crogiuolo
-* Monto il Becco Bunsen ed il treppiedi
-* Poso il crogiuolo con il tappo inserito sopra al Becco Bunsen
+* Inserisco il carbone nel crogiuolo.
+* Monto il Becco Bunsen ed il treppiedi.
+* Poso il crogiuolo con il tappo inserito sopra al Becco Bunsen.
 * Dopo che il carbone si è riscaldato inserisco il minio in polvere.
-* Ottengo piombo fuso e residui
+* Ottengo piombo fuso e residui.
 
 ---
 
@@ -70,7 +70,7 @@ ALLUMINA|MAGNESIO|ALLUMINIO
 
 
 
-  > Proprietà di essere ridotti in lamine sottili
+  > Proprietà di essere ridotti in lamine sottili.
   
 
 
@@ -120,7 +120,7 @@ Le affermazioni riguardanti questa teoria erano spesso accompagnate dalla frase 
 |Giove|Stagno|
 |Saturno|Piombo|
 
-> Questa teoria iniziò a vacillare nel cinquecento quando furono scoperti nuovi metalli, come lo zinco e il platino.
+> Questa teoria iniziò a vacillare XVI secolo, quando furono scoperti nuovi metalli, come lo zinco e il platino.
 
 ---
 
@@ -151,7 +151,7 @@ Colore|Temperatura di ebollizione/fusione
 Sapore|Solubilità
 
 ## Il Chimico Scettico
-> Fu un libro scritto sotto forma di dialogo da **Robert Boyle**, pubblicato a Londra. Questo libro presentava l' ipotesi di Boyle, in cui la materia sarebbe stata formata da atomi e che ogni fenomeno fosse il risultato di collisioni tra atomi. Il libro affermava che gli **esperimenti negavano** il fatto che gli **elementi** chimici fossero **soltanto quattro** e invitava tutti i chimici a provare loro stessi. Inoltre in questo libro fu affermata con forza la necessità di **separare** la **chimica dalla medicina e dall' alchimia**, elevandola al rango di una scienza.
+> Fu un libro scritto sotto forma di dialogo da **Robert Boyle**, pubblicato a Londra. Questo libro presentava l' ipotesi di Boyle, secondo la quale la materia sarebbe stata formata da atomi e  ogni fenomeno sarebbe stato il risultato di collisioni tra atomi. Il libro affermava che gli **esperimenti negavano** il fatto che gli **elementi** chimici fossero **soltanto quattro** e invitava tutti i chimici a provare loro stessi. Inoltre, in questo libro fu affermata con forza la necessità di **separare** la **chimica dalla medicina e dall' alchimia**, elevandola al rango di una scienza.
 
 <br>
 
@@ -160,7 +160,7 @@ Sapore|Solubilità
 <a name="c"></a>
 ### Conclusione
 
-Nel XVI e XVII secolo inizia una sorta di rivoluzione della chimica: molte teorie, rispettate e - spesso - difese dalla Chiesa, vengono messe in discussione, così come molti pregiudizi sulla natura; ad esempio il fatto che essa aborrisca il vuoto. La presentazione che abbiamo visionato in classe intendeva mostrarci il confine tra la chimica fatta solo per gioco, senza delle solide basi come il metodo scientifico, e la chimica fatta come scienza, per far progredire la specie umana. In breve, questa presentazione, partendo dall' Età dei Metalli, ci ha mostrato la nascita della chimica, per caso nella cottura del vasellame, e la sua successiva purificazione da preconcetti e pregiudizi, avendo il bisogno di provare qualsiasi cosa e diventando di fatto una scienza.
+Nel XVI e XVII secolo inizia una sorta di rivoluzione della chimica: molte teorie, rispettate e - spesso - difese dalla Chiesa, vengono messe in discussione, così come molti pregiudizi sulla natura; ad esempio il fatto che essa aborrisca il vuoto. La presentazione che abbiamo visionato in classe intendeva mostrarci il confine tra la chimica fatta solo per gioco, senza delle solide basi come il metodo scientifico, e la chimica fatta come scienza, per far progredire la specie umana. In breve, questa presentazione, partendo dall' Età dei Metalli, ci ha mostrato la nascita della chimica, per caso,  nella cottura del vasellame, e la sua successiva purificazione da preconcetti e pregiudizi, avendo il bisogno di provare qualsiasi cosa e diventando di fatto una scienza.
 <br><br><br>
 
 * [Torna all' indice di questo documento](#int)
