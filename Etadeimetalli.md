@@ -15,7 +15,7 @@
 ## Riduzione dei metalli<a name="cao"></a>
 
 > È il processo per cui dai vari minerali, per reazione chimica, si ottiene la separazione del metallo sotto forma di elemento più o meno mescolato con altri composti ed elementi presenti in quantitativi molto bassi. L' etimologia è forse connessa all' evidente aumento di densità - talvolta anche del 100% - nel passaggio dal minerale al metallo.
-L' inizio di questa pratica è datato a metà del IV° millennio a.C. Probabilmente nelle fornaci, in una cottura del vasellame di giorni e giorni, con temperature di 600-800°C, nel tentativo di aggiungere materiali colorati derivati da minerali, con la presenza di sostanze organiche come la paglia, sono stati prodotti i primi metalli, come il rame. Sì iniziò a forgiare il ferro invece dopo il rame, poiché dovevano essere costruiti degli altoforni a tiraggio forzato, che dovevano raggiungere i 2000°C Ecco qui sotto una tabella di alcune possibili riduzioni di minerali.
+L' inizio di questa pratica è datato a metà del IV° millennio a.C. Probabilmente nelle fornaci, in una cottura del vasellame di giorni e giorni, con temperature di 600-800°C, nel tentativo di aggiungere materiali colorati derivati da minerali, con la presenza di sostanze organiche come la paglia, sono stati prodotti i primi metalli, come il rame. Invece, dopo il rame, si iniziò a forgiare il ferro - più resistente - poiché dovevano essere costruiti degli altoforni a tiraggio forzato, che dovevano raggiungere i 2000°C. Ecco qui sotto una tabella di alcune possibili riduzioni di minerali.
 <br><sup>FONTE: [archeoagordo.it](http://archeoagordo.it/02/Archeometallurgia.htm)</sup>
 
 |Minerale| Fonte riducente |Metallo ( + residuo ) |
@@ -98,7 +98,8 @@ Le prime ipotesi e teorie riguardanti il mondo circostante erano basate sull'
 nell' elaborazione di esse. Una teoria famosa, stimata e presa in considerazione per secoli è la
 
 ## Teoria dei quattro elementi di Aristotele
-  > _Tutte le sostanze sono sostituite da proporzioni differenti di sostanze semplici ( elementi) : terra, aria, fuoco e acqua. Le trasformazioni chimiche - come la fusione dello zucchero - non sono altro che un cambio delle proprorzioni tra i quattro elementi nella sostanza._
+  > _Tutte le sostanze sono sostituite da proporzioni differenti di sostanze semplici ( elementi) : terra, aria, fuoco e acqua. Le trasformazioni chimiche - come la fusione dello zucchero - non sono altro che un cambio delle proprorzioni tra i quattro elementi nella sostanza._<br>
+  > Le affermazioni in questa teoria erano spesso accompagnate dalla frase latina ___ipse dixit__, che significa _l' ha detto egli stesso_ e richiama all' autorità di qualcuno. Questa parola deriva dal greco, quando nella scuola Pitagorica erano affermate verità convalidate dallo stesso Pitagora.
 > Un' altra teoria ritenuta vera era quella della 
 
 ## Relazione tra pianeti e metalli
