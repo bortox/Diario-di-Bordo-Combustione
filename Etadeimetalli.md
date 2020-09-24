@@ -98,8 +98,12 @@ Le prime ipotesi e teorie riguardanti il mondo circostante erano basate sull'
 nell' elaborazione di esse. Una teoria famosa, stimata e presa in considerazione per secoli è la
 
 ## Teoria dei quattro elementi di Aristotele
-  > _Tutte le sostanze sono sostituite da proporzioni differenti di sostanze semplici ( elementi) : terra, aria, fuoco e acqua. Le trasformazioni chimiche - come la fusione dello zucchero - non sono altro che un cambio delle proprorzioni tra i quattro elementi nella sostanza._<br>
-  > Le affermazioni in questa teoria erano spesso accompagnate dalla frase latina ___ipse dixit__, che significa _l' ha detto egli stesso_ e richiama all' autorità di qualcuno. Questa parola deriva dal greco, quando nella scuola Pitagorica erano affermate verità convalidate dallo stesso Pitagora.
+  > _Tutte le sostanze sono sostituite da proporzioni differenti di sostanze semplici ( elementi) : terra, aria, fuoco e acqua. Le trasformazioni chimiche - come la fusione dello zucchero - non sono altro che un cambio delle proprorzioni tra i quattro elementi nella sostanza._
+  
+  
+Le affermazioni in questa teoria erano spesso accompagnate dalla frase latina ***ipse dixit***, che letteralmente significa _l' ha detto egli stesso_ e semanticamente richiama all' autorità di qualcuno. Questa parola deriva dal greco, quando nella scuola Pitagorica erano spiegate verità convalidate dallo stesso Pitagora.
+
+
 > Un' altra teoria ritenuta vera era quella della 
 
 ## Relazione tra pianeti e metalli
@@ -133,7 +137,7 @@ Nel XVI e XVII secolo d.C. iniziarono a vacillare molte teorie, sotto l' occhio 
 * Ipotesi
 * Deduzione
 * Controllo della previsione
-> Una interessante novità è che una deduzione **non è mai considerata corretta per sempre**: alla prima confutazione dell' ipotesi l' esperimento dovrà essere eseguito di nuovo, con una nuova previsione. 
+> Una interessante novità è che una deduzione **non è mai considerata corretta per sempre**: alla prima confutazione dell' ipotesi l' esperimento dovrà essere eseguito di nuovo, con una nuova previsione. Quindi, ___ipse dixit___ non è più considerata una prova di veridicità di una deduzione.
 
 > Di conseguenza, ciò portava all' adozione di **proprietà operative** delle sostanze - oggettive e uguali per tutti - **invece** di **proprietà macroscopiche** - soggettive e facilmente confutabili - come la forma o il colore di un oggetto, per **dimostrare** ipotesi e teorie. A causa di ciò, possenti teorie come la **horror vacui** o la **teoria dei quattro elementi** di Aristotele, subirono un declino per la loro non veridicità, tra confutazioni e deduzioni differenti.
 
