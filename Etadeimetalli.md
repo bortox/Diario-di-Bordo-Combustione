@@ -101,7 +101,7 @@ nell' elaborazione di esse. Una teoria famosa, stimata e presa in considerazione
   > _Tutte le sostanze sono sostituite da proporzioni differenti di sostanze semplici ( elementi) : terra, aria, fuoco e acqua. Le trasformazioni chimiche - come la fusione dello zucchero - non sono altro che un cambio delle proprorzioni tra i quattro elementi nella sostanza._
   
   
-Le affermazioni in questa teoria erano spesso accompagnate dalla frase latina ***ipse dixit***, che letteralmente significa _l' ha detto egli stesso_ e semanticamente richiama all' autorità di qualcuno. Questa parola deriva dal greco, quando nella scuola Pitagorica erano spiegate verità convalidate dallo stesso Pitagora.
+Le affermazioni riguardanti questa teoria erano spesso accompagnate dalla frase latina ***ipse dixit***, che letteralmente significa _l' ha detto egli stesso_ e semanticamente richiama all' autorità di qualcuno. Questa parola deriva dal greco, quando nella scuola Pitagorica erano spiegate verità convalidate dallo stesso Pitagora.
 
 
 > Un' altra teoria ritenuta vera era quella della 
